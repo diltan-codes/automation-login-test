@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Selenium driver
+chromedriver.exe
+
+# Test reports
+reports/
+allure-results/
+
+# Environment files
+.env
